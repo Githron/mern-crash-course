@@ -2,8 +2,8 @@ POST http://localhost:5000/api/products
 Content-Type: application/json
 
 {
-  "name": "poco x100 pro",
-  "price": "100000",
+  "name": "poco x3 pro",
+  "price": "209",
   "image": "example.com/image2"
 }
 
@@ -13,11 +13,11 @@ GET http://localhost:5000/api/products
 
 ### 
 
-DELETE http://localhost:5000/api/products/698690c7f7e76a2a4e41aa40
+DELETE http://localhost:5000/api/products/6986912af7e76a2a4e41aa46
 
 ###
 
-PUT http://localhost:5000/api/products/698690c7f7e76a2a4e41aa4
+PUT http://localhost:5000/api/products/698690c7f7e76a2a4e41aacc
 Content-Type: application/json
 
 {
