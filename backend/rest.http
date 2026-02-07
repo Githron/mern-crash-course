@@ -13,7 +13,7 @@ GET http://localhost:5000/api/products
 
 ###
 
-DELETE http://localhost:5000/api/products/
+DELETE http://localhost:5000/api/products/698690c7f7e76a2a4e41aa41
 
 ###
 
