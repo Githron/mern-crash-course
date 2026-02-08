@@ -6,7 +6,7 @@ Content-Type: application/json
   "price": "209",
   "image": "example.com/image2"
 }
-
+  
 ### 
 
 GET http://localhost:5000/api/products
