@@ -13,11 +13,11 @@ GET http://localhost:5000/api/products
 
 ### 
 
-DELETE http://localhost:5000/api/products/6986912af7e76a2a4e41aa46
+DELETE http://localhost:5000/api/products/69876d7f6bb9a2976c66b4ef
 
 ###
 
-PUT http://localhost:5000/api/products/698690c7f7e76a2a4e41aacc
+PUT http://localhost:5000/api/products/69876d986bb9a2976c66b4f1
 Content-Type: application/json
 
 {
